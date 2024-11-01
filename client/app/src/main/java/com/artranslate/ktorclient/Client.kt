@@ -49,12 +49,11 @@ suspend fun main() = coroutineScope {
             println("번역할 텍스트를 입력하세요 (종료하려면 빈 줄 입력):")
 
             while (true) {
-                val userInput = readln()
-                if(userInput == "End") break;
+                val userInput = readlnOrNull()?.takeIf { it.isNotBlank() } ?: break
                 texts.add(userInput)
             }
 
-            if(texts.isEmpty()) break;
+            if (texts.isEmpty()) break
 
             val requestData = TranslationRequest(q = texts, target = "ko")
             val requestJson = Json.encodeToString(requestData)
