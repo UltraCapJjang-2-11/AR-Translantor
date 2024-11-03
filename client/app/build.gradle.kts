@@ -52,6 +52,32 @@ android {
 
 dependencies {
 
+
+    // ARCore (Google Play Services for AR) library.
+    implementation("com.google.ar:core:1.46.0")
+
+    // Obj - a simple Wavefront OBJ file loader
+    // https://github.com/javagl/Obj
+    implementation("de.javagl:obj:0.4.0")
+
+    implementation("androidx.appcompat:appcompat:1.1.0")
+    implementation("androidx.lifecycle:lifecycle-common-java8:2.2.0")
+
+    implementation("com.google.android.material:material:1.1.0")
+
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0")
+
+    //// 추가
+    // ML Kit 텍스트 인식 라이브러리
+    implementation("com.google.mlkit:text-recognition:16.0.0")
+
+    //// 추가
+    // Sceneform Core 및 UX 라이브러리 추가
+    implementation("com.google.ar.sceneform:core:1.17.1")
+    implementation("com.google.ar.sceneform.ux:sceneform-ux:1.17.1")
+
+
     val ktor_version = "2.3.3"
 
     // Ktor 클라이언트 의존성
@@ -80,4 +106,5 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
 }
