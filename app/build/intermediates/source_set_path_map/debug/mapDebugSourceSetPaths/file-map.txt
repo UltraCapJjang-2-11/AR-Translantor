@@ -1,0 +1,54 @@
+com.example.myapplication2.app-play-services-basement-18.4.0-0 /Users/yunsihun/.gradle/caches/transforms-4/081383d5415e59d1b387c28b0c447d88/transformed/play-services-basement-18.4.0/res
+com.example.myapplication2.app-lifecycle-viewmodel-release-1 /Users/yunsihun/.gradle/caches/transforms-4/08d3a8e2cf52552395dd25c51da165b0/transformed/lifecycle-viewmodel-release/res
+com.example.myapplication2.app-lifecycle-process-2.8.6-2 /Users/yunsihun/.gradle/caches/transforms-4/0cd54782ba5721c14f0e3da5f6ade141/transformed/lifecycle-process-2.8.6/res
+com.example.myapplication2.app-savedstate-ktx-1.2.1-3 /Users/yunsihun/.gradle/caches/transforms-4/15d5310eebc517fe2f4216abc972a9c3/transformed/savedstate-ktx-1.2.1/res
+com.example.myapplication2.app-material-ripple-release-4 /Users/yunsihun/.gradle/caches/transforms-4/199669dbf2f954225c48d1f0b2d49f15/transformed/material-ripple-release/res
+com.example.myapplication2.app-core-ktx-1.13.1-5 /Users/yunsihun/.gradle/caches/transforms-4/1a0dab5e75bb822d6b581846c053abae/transformed/core-ktx-1.13.1/res
+com.example.myapplication2.app-runtime-release-6 /Users/yunsihun/.gradle/caches/transforms-4/1a9764b094fe1652724e983b03e9f4ef/transformed/runtime-release/res
+com.example.myapplication2.app-activity-compose-1.9.3-7 /Users/yunsihun/.gradle/caches/transforms-4/1c1fe4346ee35b06ec00b38b2463a3a5/transformed/activity-compose-1.9.3/res
+com.example.myapplication2.app-ui-tooling-data-release-8 /Users/yunsihun/.gradle/caches/transforms-4/1df8fef375891414202c7ccb179802ce/transformed/ui-tooling-data-release/res
+com.example.myapplication2.app-customview-poolingcontainer-1.0.0-9 /Users/yunsihun/.gradle/caches/transforms-4/31aa577a179ff10b1f4a18a857ec4ffd/transformed/customview-poolingcontainer-1.0.0/res
+com.example.myapplication2.app-material-icons-core-release-10 /Users/yunsihun/.gradle/caches/transforms-4/356df23f154b53cf28e4043bd186b106/transformed/material-icons-core-release/res
+com.example.myapplication2.app-lifecycle-runtime-ktx-release-11 /Users/yunsihun/.gradle/caches/transforms-4/38a3f4d81330c5aa83d505d12ef3ee5b/transformed/lifecycle-runtime-ktx-release/res
+com.example.myapplication2.app-lifecycle-viewmodel-savedstate-2.8.6-12 /Users/yunsihun/.gradle/caches/transforms-4/3a4f4d3becd4bbf84c19fad82600ab54/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
+com.example.myapplication2.app-ui-geometry-release-13 /Users/yunsihun/.gradle/caches/transforms-4/3e90fd7aa631fa157a8c716474532232/transformed/ui-geometry-release/res
+com.example.myapplication2.app-ui-release-14 /Users/yunsihun/.gradle/caches/transforms-4/46a6a6a7375e70560fb93359206277cb/transformed/ui-release/res
+com.example.myapplication2.app-ui-unit-release-15 /Users/yunsihun/.gradle/caches/transforms-4/4f9e8c65c3e92fd5d35a258dc6325713/transformed/ui-unit-release/res
+com.example.myapplication2.app-appcompat-resources-1.6.1-16 /Users/yunsihun/.gradle/caches/transforms-4/50e03ce21426ac9403536224f8ed04e7/transformed/appcompat-resources-1.6.1/res
+com.example.myapplication2.app-emoji2-views-helper-1.3.0-17 /Users/yunsihun/.gradle/caches/transforms-4/554862414a30402264aae30dc5e40eb0/transformed/emoji2-views-helper-1.3.0/res
+com.example.myapplication2.app-core-1.13.1-18 /Users/yunsihun/.gradle/caches/transforms-4/6d01d3d33f2e782d74cfd0c557c13ebc/transformed/core-1.13.1/res
+com.example.myapplication2.app-activity-1.9.3-19 /Users/yunsihun/.gradle/caches/transforms-4/6ddcd13dc9c5fb870aa0278ebc91718b/transformed/activity-1.9.3/res
+com.example.myapplication2.app-animation-release-20 /Users/yunsihun/.gradle/caches/transforms-4/6e7892d421e9a6ca54ea8c1bede57072/transformed/animation-release/res
+com.example.myapplication2.app-ui-test-manifest-1.6.6-21 /Users/yunsihun/.gradle/caches/transforms-4/73f833ced74042c8e2be8ce0e9c5ab08/transformed/ui-test-manifest-1.6.6/res
+com.example.myapplication2.app-play-services-base-18.5.0-22 /Users/yunsihun/.gradle/caches/transforms-4/753d50a5c09421dc244061c594c14e39/transformed/play-services-base-18.5.0/res
+com.example.myapplication2.app-foundation-layout-release-23 /Users/yunsihun/.gradle/caches/transforms-4/77606a66588fcfb1768d9dd2cad9e3fd/transformed/foundation-layout-release/res
+com.example.myapplication2.app-profileinstaller-1.3.1-24 /Users/yunsihun/.gradle/caches/transforms-4/7e2a07acdefb4675ef80f60d1ff6c96f/transformed/profileinstaller-1.3.1/res
+com.example.myapplication2.app-savedstate-1.2.1-25 /Users/yunsihun/.gradle/caches/transforms-4/8193f5c783278ecf1c014acfa98d0733/transformed/savedstate-1.2.1/res
+com.example.myapplication2.app-ui-util-release-26 /Users/yunsihun/.gradle/caches/transforms-4/83a73c160a4e4f94c6efbe76a0a75316/transformed/ui-util-release/res
+com.example.myapplication2.app-ui-tooling-preview-release-27 /Users/yunsihun/.gradle/caches/transforms-4/84716fcf7e315d0960db9bb036a1da15/transformed/ui-tooling-preview-release/res
+com.example.myapplication2.app-material-release-28 /Users/yunsihun/.gradle/caches/transforms-4/9197532cfb98342bfb77a0b76585d82e/transformed/material-release/res
+com.example.myapplication2.app-ui-tooling-release-29 /Users/yunsihun/.gradle/caches/transforms-4/934d60cd243000b5f2c861cf3e623fc3/transformed/ui-tooling-release/res
+com.example.myapplication2.app-annotation-experimental-1.4.0-30 /Users/yunsihun/.gradle/caches/transforms-4/9462c50a730fbebf11c9d151616995e3/transformed/annotation-experimental-1.4.0/res
+com.example.myapplication2.app-ui-graphics-release-31 /Users/yunsihun/.gradle/caches/transforms-4/96b3cd56c6d613aced60f7868fdfd47a/transformed/ui-graphics-release/res
+com.example.myapplication2.app-core-runtime-2.2.0-32 /Users/yunsihun/.gradle/caches/transforms-4/a0e2e472110072f28043f015cd609cd4/transformed/core-runtime-2.2.0/res
+com.example.myapplication2.app-activity-ktx-1.9.3-33 /Users/yunsihun/.gradle/caches/transforms-4/a3089e2a95e90468661324e650651869/transformed/activity-ktx-1.9.3/res
+com.example.myapplication2.app-startup-runtime-1.1.1-34 /Users/yunsihun/.gradle/caches/transforms-4/a364dd6d0aab31ad1423f55825e3d2c7/transformed/startup-runtime-1.1.1/res
+com.example.myapplication2.app-foundation-release-35 /Users/yunsihun/.gradle/caches/transforms-4/afeef452d794d9964000cab3c7fadc53/transformed/foundation-release/res
+com.example.myapplication2.app-runtime-saveable-release-36 /Users/yunsihun/.gradle/caches/transforms-4/b39c1574bb7eac3d6b4f309872ced24b/transformed/runtime-saveable-release/res
+com.example.myapplication2.app-lifecycle-viewmodel-ktx-2.8.6-37 /Users/yunsihun/.gradle/caches/transforms-4/b8e928cf41afe7cc398382be543a187d/transformed/lifecycle-viewmodel-ktx-2.8.6/res
+com.example.myapplication2.app-lifecycle-livedata-2.8.6-38 /Users/yunsihun/.gradle/caches/transforms-4/c097d46c5d4977f8e694f669614ec444/transformed/lifecycle-livedata-2.8.6/res
+com.example.myapplication2.app-material3-release-39 /Users/yunsihun/.gradle/caches/transforms-4/cc9de6e97ddd510746820ab53a067500/transformed/material3-release/res
+com.example.myapplication2.app-appcompat-1.6.1-40 /Users/yunsihun/.gradle/caches/transforms-4/cd343d76a18eeddbb865fed58e02e6e8/transformed/appcompat-1.6.1/res
+com.example.myapplication2.app-lifecycle-livedata-core-ktx-2.8.6-41 /Users/yunsihun/.gradle/caches/transforms-4/dba79165cf5d8b6dd41feb3843eee0e2/transformed/lifecycle-livedata-core-ktx-2.8.6/res
+com.example.myapplication2.app-ui-text-release-42 /Users/yunsihun/.gradle/caches/transforms-4/e1b02a378c421f5c7a5a6f840f44962e/transformed/ui-text-release/res
+com.example.myapplication2.app-animation-core-release-43 /Users/yunsihun/.gradle/caches/transforms-4/e5c518a3b7763cfa65d4b7f26ab80a84/transformed/animation-core-release/res
+com.example.myapplication2.app-emoji2-1.3.0-44 /Users/yunsihun/.gradle/caches/transforms-4/ee1a024ca7ed269b51bbd269d40affbc/transformed/emoji2-1.3.0/res
+com.example.myapplication2.app-fragment-1.3.6-45 /Users/yunsihun/.gradle/caches/transforms-4/f37691b2a819c7cf6d9b7bcc4f896921/transformed/fragment-1.3.6/res
+com.example.myapplication2.app-lifecycle-livedata-core-2.8.6-46 /Users/yunsihun/.gradle/caches/transforms-4/f8bca1e422eb79b9365837ba37d18c29/transformed/lifecycle-livedata-core-2.8.6/res
+com.example.myapplication2.app-lifecycle-runtime-release-47 /Users/yunsihun/.gradle/caches/transforms-4/f8c43c22e27d5b06bae0447e1ef902fa/transformed/lifecycle-runtime-release/res
+com.example.myapplication2.app-resValues-48 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/build/generated/res/resValues/debug
+com.example.myapplication2.app-packageDebugResources-49 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.myapplication2.app-packageDebugResources-50 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.myapplication2.app-debug-51 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.myapplication2.app-debug-52 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/src/debug/res
+com.example.myapplication2.app-main-53 /Users/yunsihun/3학년 2학기/울트라캡짱/MyApplication2/app/src/main/res
