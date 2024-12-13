@@ -52,17 +52,27 @@ android {
 
 dependencies {
 
-    val ktor_version = "2.3.3"
+    // ARCore
+    implementation("com.google.ar:core:1.46.0")
+
+    // Sceneform (AR 오브젝트 렌더링)
+    implementation("com.google.ar.sceneform.ux:sceneform-ux:1.17.1")
+
+    // ML Kit for Text Recognition
+    implementation("com.google.mlkit:text-recognition:16.0.1")
+
+
+    val ktorVersion = "2.3.3"
 
     // Ktor 클라이언트 의존성
-    implementation("io.ktor:ktor-client-core:$ktor_version")
-    implementation("io.ktor:ktor-client-cio:$ktor_version")
-    implementation("io.ktor:ktor-client-websockets:$ktor_version")
+    implementation("io.ktor:ktor-client-core:$ktorVersion")
+    implementation("io.ktor:ktor-client-cio:$ktorVersion")
+    implementation("io.ktor:ktor-client-websockets:$ktorVersion")
 
     // JSON 직렬화 지원을 위한 의존성
-    implementation("io.ktor:ktor-server-content-negotiation:$ktor_version")
-    implementation("io.ktor:ktor-client-content-negotiation:$ktor_version")
-    implementation("io.ktor:ktor-serialization-kotlinx-json:$ktor_version")
+    implementation("io.ktor:ktor-server-content-negotiation:$ktorVersion")
+    implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:$ktorVersion")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
 
     implementation(libs.androidx.core.ktx)
