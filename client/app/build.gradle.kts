@@ -1,16 +1,15 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    kotlin("plugin.serialization") version "1.9.0"
 }
 
 android {
-    namespace = "com.artranslate.ktorclient"
+    namespace = "com.example.text"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.artranslate.ktorclient"
-        minSdk = 26
+        applicationId = "com.example.text"
+        minSdk = 24
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
@@ -52,28 +51,22 @@ android {
 
 dependencies {
 
-    // ARCore
-    implementation("com.google.ar:core:1.46.0")
+    implementation ("androidx.compose.material:material-icons-extended:1.4.3")
 
-    // Sceneform (AR 오브젝트 렌더링)
-    implementation("com.google.ar.sceneform.ux:sceneform-ux:1.17.1")
+    implementation("com.squareup.okhttp3:okhttp:4.11.0")
 
-    // ML Kit for Text Recognition
-    implementation("com.google.mlkit:text-recognition:16.0.1")
+    implementation("com.google.guava:guava:31.1-android")
 
+    implementation("androidx.camera:camera-core:1.3.0")
+    implementation("androidx.camera:camera-camera2:1.3.0")
+    implementation("androidx.camera:camera-lifecycle:1.3.0")
+    implementation("androidx.camera:camera-view:1.3.0")
+    implementation("androidx.camera:camera-extensions:1.3.0")
 
-    val ktorVersion = "2.3.3"
+    implementation("com.google.mlkit:text-recognition-korean:16.0.0")
 
-    // Ktor 클라이언트 의존성
-    implementation("io.ktor:ktor-client-core:$ktorVersion")
-    implementation("io.ktor:ktor-client-cio:$ktorVersion")
-    implementation("io.ktor:ktor-client-websockets:$ktorVersion")
-
-    // JSON 직렬화 지원을 위한 의존성
-    implementation("io.ktor:ktor-server-content-negotiation:$ktorVersion")
-    implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
-    implementation("io.ktor:ktor-serialization-kotlinx-json:$ktorVersion")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
+    // compose 런타임 권한 처리
+    implementation("com.google.accompanist:accompanist-permissions:0.30.1")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
@@ -83,6 +76,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.play.services.mlkit.text.recognition)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
